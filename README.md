@@ -1,18 +1,18 @@
-# Rádio Clube Castelo Branco (RCCB)
+# Radio Club Castelo Branco (RCCB)
 
-Este é o repositório do projeto **Rádio Clube Castelo Branco** (RCCB), um reprodutor de rádio online desenvolvido com **HTML**, **CSS**, **JavaScript** e **React**. O projeto tem como objetivo fornecer uma experiência de rádio interativa e livre de anúncios, com músicas de qualidade e uma interface moderna.
+This is the repository for the **Rádio Clube Castelo Branco** (RCCB) project, an online radio player developed with **HTML**, **CSS**, **JavaScript** and **React**. The project aims to provide an interactive, ad-free radio experience with quality music and a modern interface.
 
-## 🖥️ Tecnologias Utilizadas
-- **HTML5**: Estrutura básica do projeto.
-- **CSS3** com **Tailwind CSS**: Estilização da interface, garantindo um design responsivo e moderno.
-- **JavaScript**: Lógica de funcionamento do player.
-- **React.js**: Framework utilizado para a criação de componentes dinâmicos.
-- **Babel**: Transpilador para suportar JSX no navegador.
-- **Ícones SVG**: Para melhorar a experiência visual.
+## 🖥️ Technologies Used
+- **HTML5**: Basic structure of the project.
+- **CSS3** with **Tailwind CSS**: Stylisation of the interface, ensuring a responsive and modern design.
+- JavaScript: Logic of how the player works.
+- **React.js**: Framework used to create dynamic components.
+- **Babel**: Transpiler to support JSX in the browser.
+- SVG icons: To improve the visual experience.
 
-## 🚀 Funcionalidades
-- **Reprodução de Rádio ao Vivo**: Fluxo contínuo da rádio RCCB.
-- **Controle de Volume**: Permite ajuste de volume diretamente pela interface.
-- **Botão de Play/Pause**: Controle intuitivo de reprodução.
-- **Animação de Frequência**: Visualização dinâmica da música em execução.
-- **Interface Responsiva**: Compatível com diferentes tamanhos de tela.
+## 🚀 Functionalities
+- Live Radio Streaming**: Continuous streaming of RCCB radio.
+- Volume Control**: Allows volume adjustment directly from the interface.
+- Play/Pause button**: Intuitive playback control.
+- Frequency Animation**: Dynamic visualisation of the music being played.
+- Responsive Interface**: Compatible with different screen sizes.
